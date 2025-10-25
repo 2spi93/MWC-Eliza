@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eliza
 
 ## Edit the character files
@@ -92,3 +93,6 @@ docker compose -f docker-compose-image.yaml up
 # Deploy with Railway
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/aW47_j)
+=======
+# MWC-Eliza
+>>>>>>> 2d4a0eda688538950d4f1af19d0c8b045f6361ce
